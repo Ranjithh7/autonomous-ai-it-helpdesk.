@@ -14,3 +14,6 @@ This repository contains the 7th-semester B.Tech mini-project development worksp
 - **Language:** Python
 - **Orchestration:** LangChain / CrewAI
 - **Backend Framework:** FastAPI
+
+## Architecture Diagram
+- <img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/352919d4-7afb-4e11-a499-6cef3109aee6" />
